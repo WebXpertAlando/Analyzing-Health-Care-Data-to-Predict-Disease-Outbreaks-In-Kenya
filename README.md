@@ -8,7 +8,7 @@ Disease outbreak, such as malaria and chorela, can devastate communities in Keny
 # Objectives
 - To analyse healthcare data, including disease incidences, reports, hospital admissions, and climate data (such as temperature and rainfall, which often influence the spread of of diseases like malaria).
 
-- Develop predeictive  models for disease outbreaks based on healthcare and climate data.
+- Develop predictive  models for disease outbreaks based on healthcare and climate data.
 
 - Develop an early warning systems for public health officials.
 
