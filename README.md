@@ -16,6 +16,8 @@ Disease outbreak, such as malaria and chorela, can devastate communities in Keny
 
 # Expected Outcomes.
 
-By leveraging machine learning algorithms, the project will help healthcare providers and policymakers make proactive decisions, such as allowing vaccines, medical supplies and healthcare personnel to regions ast risks of an outbreak. The project will use python to build predictive models that identify trends in disease outbreaks and forcast future occurences.
+By leveraging machine learning algorithms, the project will help healthcare providers and policymakers make proactive decisions, such as allowing vaccines, medical supplies and healthcare personnel to regions ast risks of an outbreak. 
 
+# Project Implementation
 
+The project will use python to build predictive models that identify trends in disease outbreaks and forcast future occurences.
